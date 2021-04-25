@@ -1,0 +1,9 @@
+[INFO] 10:59:01:685 Servidor/(5903:5903): Servidor listo para recibir al cliente
+[INFO] 11:30:59:365 Servidor/(5903:5903): Se conecto un cliente!
+[INFO] 11:30:59:365 Servidor/(5903:5903): Me llego el mensaje Hola, soy un valor
+[ERROR] 11:31:21:999 Servidor/(5903:5903): el cliente se desconecto. Terminando servidor
+[INFO] 11:36:43:328 Servidor/(6858:6858): Servidor listo para recibir al cliente
+[INFO] 11:37:33:324 Servidor/(6858:6858): Se conecto un cliente!
+[INFO] 11:37:33:324 Servidor/(6858:6858): Me llego el mensaje Hola, soy un valor
+[ERROR] 11:38:26:507 Servidor/(6858:6858): el cliente se desconecto. Terminando servidor
+[INFO] 11:39:00:993 Servidor/(6901:6901): Servidor listo para recibir al cliente
